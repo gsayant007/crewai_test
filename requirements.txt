@@ -1,0 +1,6 @@
+ollama
+chromadb
+llama-index
+langchain-core
+langchain-community
+langchain-chroma
